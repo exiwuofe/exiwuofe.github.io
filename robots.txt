@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exiwuofe.github.io/RIO/sitemap_index.txt
+Sitemap: https://exiwuofe.github.io/rQI/sitemap_index.txt
+Sitemap: https://exiwuofe.github.io/srB/sitemap_index.txt
+Sitemap: https://exiwuofe.github.io/tug/sitemap_index.txt
